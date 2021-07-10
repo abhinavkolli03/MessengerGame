@@ -1,0 +1,2 @@
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\MessengerContent\obj\x86\Debug\MessengerContent.contentprojResolveAssemblyReference.cache
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\MessengerContent\obj\x86\Debug\MessengerContent.contentprojResolveAssemblyReference.cache

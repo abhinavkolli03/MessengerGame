@@ -1,0 +1,61 @@
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Messenger.exe
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Messenger.pdb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.exe
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.pdb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Content\ship.xnb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Content\text.xnb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Content\HomeScreen.xnb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.csprojResolveAssemblyReference.cache
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Shantanu\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Jets.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\HomeScreen.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\ship.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Jets.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Boss.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Drone.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\text.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Messenger.exe
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Messenger.pdb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.csprojResolveAssemblyReference.cache
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.exe
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.pdb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\SaveData.txt
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Messenger.exe.manifest
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Messenger.application
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Storage.dll
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Microsoft.Xna.Framework.Storage.xml
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.exe.manifest
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\Messenger.application
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\background-2.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\blue.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteriod plus loss.mp3
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\collision.mp3
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\tune.mp3
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\bossfight.mp3
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteriod plus loss.xnb
+C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteriod plus loss.wma

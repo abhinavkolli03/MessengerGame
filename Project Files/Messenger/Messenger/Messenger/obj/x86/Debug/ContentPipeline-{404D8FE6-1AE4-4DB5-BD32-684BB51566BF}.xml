@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid.jpg</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteroid.xnb</Output>
+      <Time>2020-01-15T06:07:05.134564-06:00</Time>
+    </Item>
+    <Item>
+      <Source>HomeScreen.png</Source>
+      <Name>HomeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\HomeScreen.xnb</Output>
+      <Time>2020-01-12T11:22:05.3621337-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.png</Source>
+      <Name>ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2020-01-12T11:22:05.4538885-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2020-01-12T11:22:05.3162575-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Jets.png</Source>
+      <Name>Jets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Jets.xnb</Output>
+      <Time>2020-01-12T11:22:05.4060169-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss.png</Source>
+      <Name>Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Boss.xnb</Output>
+      <Time>2020-01-12T11:22:05.2933394-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Drone.png</Source>
+      <Name>Drone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\Drone.xnb</Output>
+      <Time>2020-01-12T11:22:05.3381981-06:00</Time>
+    </Item>
+    <Item>
+      <Source>text.spritefont</Source>
+      <Name>text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\text.xnb</Output>
+      <Time>2020-01-12T11:22:05.4748311-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background-2.png</Source>
+      <Name>background-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\background-2.xnb</Output>
+      <Time>2020-01-15T00:08:02.671082-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\blue.xnb</Output>
+      <Time>2020-01-15T06:05:03.8972247-06:00</Time>
+    </Item>
+    <Item>
+      <Source>asteriod plus loss.mp3</Source>
+      <Name>asteriod plus loss</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteriod plus loss.xnb</Output>
+      <Extra>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\asteriod plus loss.wma</Extra>
+      <Time>2020-01-15T21:07:30.0552014-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{404D8FE6-1AE4-4DB5-BD32-684BB51566BF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\MessengerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shant\Desktop\Messenger\Messenger\Messenger\Messenger\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-08-21T19:47:33.3887344-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
